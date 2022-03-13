@@ -1,6 +1,6 @@
 #  Application de gestion de recettes
 
-Projet permettent de comprendre les notions suivante :
+Ce Projet permet de comprendre les notions suivante :
 
  <ol>
 <li>les Composants Blade</li>
