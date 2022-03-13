@@ -18,5 +18,9 @@ Projet permettent de comprendre les notions suivante :
 # Autheur
 
 
+<<<<<<< HEAD
 <img src="demo/logo.jpg" >
+=======
+<img src="demo/logo.jpg" >
+>>>>>>> 61f27254b27567f9177676f7268ebaa3082caaba
 
