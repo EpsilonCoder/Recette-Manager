@@ -18,5 +18,5 @@ Projet permettent de comprendre les notions suivante :
 # Autheur
 
 
-<img src="demo/logo.jpg" width="100%">
+<img src="demo/logo.jpg" width="70%">
 
